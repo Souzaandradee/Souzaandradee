@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando ciber segurança pelo Senai. Sou apaixonado por tecnologia.
+Me chamo João, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando ciber segurança pelo Senai. 
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
